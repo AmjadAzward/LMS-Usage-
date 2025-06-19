@@ -1,18 +1,18 @@
 # LMS-Usage-
 
-A statistical research on LMS (Learning Management System) usage.
+A Statistical research on LMS (Learning Management System) usage.
 
-## 📊 Dataset
+##  Dataset
 
 The Excel document used to analyze the collected data is available in repository
 
-# 📈 Statistical Analysis in Excel
+#  Statistical Analysis in Excel
 
 This section explains how to perform **Descriptive Statistics**, **Correlation**, **Regression**, and **T-Test** using **Microsoft Excel** with the **Data Analysis ToolPak**.
 
 ---
 
-## ✅ 0. Enable Data Analysis ToolPak
+##  1. Enable Data Analysis ToolPak
 
 1. Go to **File** → **Options**
 2. Select **Add-ins**
@@ -24,7 +24,7 @@ This section explains how to perform **Descriptive Statistics**, **Correlation**
 
 ---
 
-## 📊 1. Descriptive Statistics
+##  2. Descriptive Statistics
 
 **Purpose:** Summarize data with mean, median, mode, standard deviation, etc.
 
@@ -39,7 +39,7 @@ This section explains how to perform **Descriptive Statistics**, **Correlation**
 
 ---
 
-## 🔗 2. Correlation
+##  3. Correlation
 
 **Purpose:** Measure the strength and direction of the linear relationship between two variables.
 
@@ -58,7 +58,7 @@ This section explains how to perform **Descriptive Statistics**, **Correlation**
 
 ---
 
-## 📉 3. Regression
+##  4. Regression
 
 **Purpose:** Analyze how a dependent variable is affected by one or more independent variables.
 
@@ -78,7 +78,7 @@ This section explains how to perform **Descriptive Statistics**, **Correlation**
 
 ---
 
-## 🔬 4. T-Test
+## 🔬 5. T-Test
 
 **Purpose:** Compare the means of two groups to see if they are statistically different.
 
