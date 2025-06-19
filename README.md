@@ -78,7 +78,7 @@ This section explains how to perform **Descriptive Statistics**, **Correlation**
 
 ---
 
-## 🔬 5. T-Test
+##  5. T-Test
 
 **Purpose:** Compare the means of two groups to see if they are statistically different.
 
